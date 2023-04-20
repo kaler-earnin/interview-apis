@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "image": "https://www.gravatar.com/avatar/94d093ed5564addd6e450d7e9881bcad?s=32&d=identicon&r=g" },
+    { "id": 2, "name": "Bob", "image": "https://www.gravatar.com/avatar/ybXCXT25cJCwqUoteFGrXwkJjOHZrsve?s=32&d=identicon&r=g" },
+    { "id": 3, "name": "Charlie", "image": "https://www.gravatar.com/avatar/MPUUPPzQ39Z9teZuqE0Iby9tZAavq5IE?s=32&d=identicon&r=g" },
+    { "id": 4, "name": "Doug", "image": "https://www.gravatar.com/avatar/oTgMjDJtaCSQCMxqABwtSjXAmPrZLrxh?s=32&d=identicon&r=g" },
+    { "id": 5, "name": "Ed", "image": "https://www.gravatar.com/avatar/CFrqrgsKACqv3fKWdyq8Te9hpt1MJ6Fi?s=32&d=identicon&r=g" },
+    { "id": 6, "name": "Frank", "image": "https://www.gravatar.com/avatar/0Fc3p8BkOof9T52U1eVRqLqgrwTxglkA?s=32&d=identicon&r=g" },
+    { "id": 7, "name": "George", "image": "https://www.gravatar.com/avatar/BgLKZX1V4igAo0mhEnIyTPHGrQqB7MuG?s=32&d=identicon&r=g" },
+    { "id": 8, "name": "Hank", "image": "https://www.gravatar.com/avatar/IxoYjAWm9CNNXTolcGjcmZu8a07qAaWR?s=32&d=identicon&r=g" },
+    { "id": 9, "name": "Ingrid", "image": "https://www.gravatar.com/avatar/mbwwrx0Ccs3L5J3lCxUZgksCDpycpfEL?s=32&d=identicon&r=g" },
+    { "id": 10, "name": "Kristin", "image": "https://www.gravatar.com/avatar/DaVGTLRPlBtHLuDrT8s9iGWszlz5CNqk?s=32&d=identicon&r=g" }
+  ]
+}
